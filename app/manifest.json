@@ -1,0 +1,14 @@
+{
+  "name": "Radar Invest",
+  "short_name": "Radar",
+  "description": "Notícias e análise de ações, FIIs, ETFs e cripto",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090D",
+  "theme_color": "#07090D",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
